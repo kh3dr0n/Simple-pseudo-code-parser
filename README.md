@@ -1,4 +1,4 @@
-#Simple Pseudo code parser
+# Simple Pseudo code parser
 this project is an class assignment, we were asked to build a parser using flex and bison to verify syntax.
 
 ### Compile
